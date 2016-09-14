@@ -45,24 +45,24 @@
    "multipleResponse": true,
    "answers": [
     {
+     "_id": "866e213d-f7f5-08f7-4898-6f4a45ca008f",
      "correct": true,
-     "answer": "There is a maximum speed at which transistors can work",
-     "_id": "866e213d-f7f5-08f7-4898-6f4a45ca008f"
+     "answer": "There is a maximum speed at which transistors can work"
     },
     {
-     "answer": "There is a maximum speed at which transistors can work ????",
+     "_id": "211e5761-57b3-84b9-1e70-91bd14cbc0a0",
      "correct": false,
-     "_id": "211e5761-57b3-84b9-1e70-91bd14cbc0a0"
+     "answer": "The CPU will process instructions too rapidly for the monitor to display."
     },
     {
-     "answer": "Input devices cannot keep up with the increased speed of the CPU",
+     "_id": "82695d11-8507-0178-7ebb-02e585f90d99",
      "correct": false,
-     "_id": "82695d11-8507-0178-7ebb-02e585f90d99"
+     "answer": "Input devices cannot keep up with the increased speed of the CPU"
     },
     {
+     "_id": "2727bdb5-add4-9a4f-4f89-1f5f3f4dee62",
      "correct": true,
-     "answer": "Too much heat is produced and the CPU will malfunction",
-     "_id": "2727bdb5-add4-9a4f-4f89-1f5f3f4dee62"
+     "answer": "Too much heat is produced and the CPU will malfunction"
     }
    ]
   }
