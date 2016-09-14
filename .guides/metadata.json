@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "id": "2cf38f04-12cb-ed2f-8356-9b4c4502a736",
+   "title": "How common characteristics of CPUs affect their performance",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-common-characteristics-of-CPUs-affect-their-performance-2cf3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fb8ac2d3-a36a-9694-8c56-242b82ae33d3",
+   "title": "Clock speed",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Clock-speed-fb8a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7e96481e-9c83-050a-2447-ae1ae0b5db53",
+   "title": "Cache size",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cache-size-7e96.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b1df92a9-5055-8c7e-2823-4e9063f759a6",
+   "title": "Number of cores",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Number-of-cores-b1df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2e368a0e-d281-a5e0-cea1-b42182810dd1",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-2e36.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "48d1b8ab-4ca9-3b2d-e236-6f5cdeaddc8d",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-48d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

@@ -1,0 +1,342 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3121938030",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Question 1: As the clock speed increases the amount of heat generated…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Falls",
+     "correct": false,
+     "_id": "e587f66f-26d0-54d8-b9ed-9a9787ed101b"
+    },
+    {
+     "answer": "Stays the same",
+     "correct": false,
+     "_id": "64ecebc1-b652-cc06-e521-4e6b8f980b35"
+    },
+    {
+     "correct": true,
+     "answer": "Increases",
+     "_id": "061aca39-4128-72ec-343f-cd4c69a065e3"
+    },
+    {
+     "answer": "Varies",
+     "correct": false,
+     "_id": "5cce0fd7-d48d-9678-7c36-72afb8378265"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1882914033",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Question 2: Select two reasons why clock speeds cannot be increased indefinitely.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "There is a maximum speed at which transistors can work",
+     "_id": "866e213d-f7f5-08f7-4898-6f4a45ca008f"
+    },
+    {
+     "answer": "There is a maximum speed at which transistors can work ????",
+     "correct": false,
+     "_id": "211e5761-57b3-84b9-1e70-91bd14cbc0a0"
+    },
+    {
+     "answer": "Input devices cannot keep up with the increased speed of the CPU",
+     "correct": false,
+     "_id": "82695d11-8507-0178-7ebb-02e585f90d99"
+    },
+    {
+     "correct": true,
+     "answer": "Too much heat is produced and the CPU will malfunction",
+     "_id": "2727bdb5-add4-9a4f-4f89-1f5f3f4dee62"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1162842599",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Question 3: A processor with a clock speed of 3 GHz can process…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "3,000,000 instructions per second",
+     "correct": false,
+     "_id": "5bbd21f4-f19e-162f-8981-58b293470771"
+    },
+    {
+     "answer": "3,000 instructions per second",
+     "correct": false,
+     "_id": "1a0c3f91-c289-1b49-9bd1-5ba439eefe9d"
+    },
+    {
+     "correct": true,
+     "answer": "3,000,000,000 instructions per second",
+     "_id": "3ff6179f-f771-dc63-c465-6a74b8a9a0e2"
+    },
+    {
+     "answer": "3,000,000,000,000 instructions per second",
+     "correct": false,
+     "_id": "abb773e2-fedf-9c7b-90ba-6a537024b458"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1174638178",
+  "source": {
+   "name": "Question 4",
+   "showName": false,
+   "instructions": "**Question 4: Select which of the following statements is correct.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "The CPU and the main memory function at the same speed",
+     "correct": false,
+     "_id": "5b580f67-35a7-a4fd-7b70-9ffa066d711f"
+    },
+    {
+     "correct": true,
+     "answer": "The CPU functions at a faster rate than the main memory",
+     "_id": "d5ebc051-6a6e-a329-2b3c-ce65a0328b74"
+    },
+    {
+     "answer": "The main memory functions at a greater rate than the CPU",
+     "correct": false,
+     "_id": "b6833c76-fec7-50cc-bf97-3d09ef6e5e44"
+    },
+    {
+     "answer": "The rate at which the memory functions can be increased by increasing the clock speed",
+     "correct": false,
+     "_id": "20a1e60d-fd33-649d-1765-297bfdb5393a"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4033226552",
+  "source": {
+   "name": "Question 5",
+   "showName": false,
+   "instructions": "**Question 5: The CPU cache memory consists of…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "DRAM",
+     "correct": false,
+     "_id": "7317f8be-8f32-4cd5-bd27-8619bab7c085"
+    },
+    {
+     "correct": true,
+     "answer": "SRAM",
+     "_id": "d12c785a-24d0-7366-884a-65b09d9083ba"
+    },
+    {
+     "answer": "XRAM",
+     "correct": false,
+     "_id": "aaae38ea-fd61-f48e-c3de-06e691a87483"
+    },
+    {
+     "answer": "iRAM",
+     "correct": false,
+     "_id": "c5e61420-8d6e-d118-eef7-ebb2ca5cecc8"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2088719783",
+  "source": {
+   "name": "Question 6",
+   "showName": true,
+   "instructions": "**Question 6: The cache is divided into different levels…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "because they have to fit inside the processor",
+     "correct": false,
+     "_id": "80e90d29-c092-fd7f-b8cb-ea760c0085b1"
+    },
+    {
+     "answer": "so that they can be accessed in order",
+     "correct": false,
+     "_id": "f50fbfe3-62f1-5f25-2272-5922db5c8c50"
+    },
+    {
+     "correct": true,
+     "answer": "because it takes longer to access the data if there is one large cache",
+     "_id": "2244b499-8159-89bc-d9d4-f7d48da0212c"
+    },
+    {
+     "answer": "so that data can be stored until the program is terminated",
+     "correct": false,
+     "_id": "353c134d-e922-d088-e854-a5b3d3183ee5"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-297880148",
+  "source": {
+   "name": "Question 7",
+   "showName": false,
+   "instructions": "**Question 7: The cache levels are accessed in the following order**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "L4, L3, L2, L1",
+     "correct": false,
+     "_id": "7c3409a8-bb3c-5fac-467e-54fea601119d"
+    },
+    {
+     "answer": "L1, L3, L2, L4",
+     "correct": false,
+     "_id": "8eb46323-e304-2703-df1c-80369d9ba11c"
+    },
+    {
+     "answer": "L3, L2, L1, L4",
+     "correct": false,
+     "_id": "36ea3081-7d21-1d52-bb95-921793243a42"
+    },
+    {
+     "correct": true,
+     "answer": "L1, L2, L3, L4",
+     "_id": "a02975e7-b8b8-1c9a-60ba-e402c8e85adc"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3965322277",
+  "source": {
+   "name": "Question 8",
+   "showName": false,
+   "instructions": "**Question 8: A processor with 4 cores is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "dual-core",
+     "correct": false,
+     "_id": "e0ff1a27-67c2-0a8c-9304-f1bd2add9357"
+    },
+    {
+     "correct": true,
+     "answer": "quad-core",
+     "_id": "823abc93-059c-2c18-0008-07b8cbaadcfb"
+    },
+    {
+     "answer": "penta-core",
+     "correct": false,
+     "_id": "6568b564-ff3d-6262-8378-159ff16eaa78"
+    },
+    {
+     "answer": "deca-core",
+     "correct": false,
+     "_id": "cdefde62-0b1f-04a7-a130-480d2d79ca64"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3787082145",
+  "source": {
+   "name": "Question 9",
+   "showName": false,
+   "instructions": "**Question 9: When the cores work together on the same program it is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "equal access processing",
+     "correct": false,
+     "_id": "5df93481-2ad1-942b-956f-f408180c44cd"
+    },
+    {
+     "answer": "multithreading",
+     "correct": false,
+     "_id": "208da9f5-3b7e-3365-85a9-eb21a4353176"
+    },
+    {
+     "answer": "multitasking",
+     "correct": false,
+     "_id": "bac926b8-7c1e-088b-08fb-f0a2407b19e9"
+    },
+    {
+     "correct": true,
+     "answer": "parallel processing",
+     "_id": "f55432c7-b073-646b-e6c1-127739df883b"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3101344407",
+  "source": {
+   "name": "Question 10",
+   "showName": false,
+   "instructions": "**Question 10: When the cores work on different programs it is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "equal access processing",
+     "correct": false,
+     "_id": "a81776ff-c3f2-dba4-bd15-0b0c73cdb732"
+    },
+    {
+     "answer": "multithreading",
+     "correct": false,
+     "_id": "081a35f3-8ad2-d347-4d31-e88fbbe2ac40"
+    },
+    {
+     "correct": true,
+     "answer": "multitasking",
+     "_id": "f6b7b0a8-efcf-8a58-78a2-8a7ed8a6bada"
+    },
+    {
+     "answer": "parallel processing",
+     "correct": false,
+     "_id": "886e7e25-8ba2-a83a-9718-184fdddcb643"
+    }
+   ]
+  }
+ }
+]
