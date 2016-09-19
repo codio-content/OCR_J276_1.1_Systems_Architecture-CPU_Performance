@@ -9,7 +9,7 @@ The diagram shows a dual-core processor but processors with more cores are avail
 | 2| Dual-core |
 | 4| Quad-core|
 | 5  |Penta-core|
-| 8|Octa(o)-core|
+| 8|Octa-core|
 | 10 |Deca-core|
 
 Multiple core processors can speed up processing because they allow:
