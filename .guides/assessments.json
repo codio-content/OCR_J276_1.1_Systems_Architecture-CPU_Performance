@@ -137,68 +137,34 @@
  },
  {
   "type": "multiple-choice",
-  "taskId": "multiple-choice-4033226552",
-  "source": {
-   "name": "Question 5",
-   "showName": false,
-   "instructions": "**Question 5: The CPU cache memory consists of…**",
-   "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": false,
-   "answers": [
-    {
-     "answer": "DRAM",
-     "correct": false,
-     "_id": "7317f8be-8f32-4cd5-bd27-8619bab7c085"
-    },
-    {
-     "correct": true,
-     "answer": "SRAM",
-     "_id": "d12c785a-24d0-7366-884a-65b09d9083ba"
-    },
-    {
-     "answer": "XRAM",
-     "correct": false,
-     "_id": "aaae38ea-fd61-f48e-c3de-06e691a87483"
-    },
-    {
-     "answer": "iRAM",
-     "correct": false,
-     "_id": "c5e61420-8d6e-d118-eef7-ebb2ca5cecc8"
-    }
-   ]
-  }
- },
- {
-  "type": "multiple-choice",
   "taskId": "multiple-choice-2088719783",
   "source": {
-   "name": "Question 6",
+   "name": "Question 5",
    "showName": true,
-   "instructions": "**Question 6: The cache is divided into different levels…**",
+   "instructions": "**Question 5: The cache is divided into different levels…**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "because they have to fit inside the processor",
+     "_id": "80e90d29-c092-fd7f-b8cb-ea760c0085b1",
      "correct": false,
-     "_id": "80e90d29-c092-fd7f-b8cb-ea760c0085b1"
+     "answer": "because they have to fit inside the processor"
     },
     {
-     "answer": "so that they can be accessed in order",
+     "_id": "f50fbfe3-62f1-5f25-2272-5922db5c8c50",
      "correct": false,
-     "_id": "f50fbfe3-62f1-5f25-2272-5922db5c8c50"
+     "answer": "so that they can be accessed in order"
     },
     {
+     "_id": "2244b499-8159-89bc-d9d4-f7d48da0212c",
      "correct": true,
-     "answer": "because it takes longer to access the data if there is one large cache",
-     "_id": "2244b499-8159-89bc-d9d4-f7d48da0212c"
+     "answer": "because it takes longer to access the data if there is one large cache"
     },
     {
-     "answer": "so that data can be stored until the program is terminated",
+     "_id": "353c134d-e922-d088-e854-a5b3d3183ee5",
      "correct": false,
-     "_id": "353c134d-e922-d088-e854-a5b3d3183ee5"
+     "answer": "so that data can be stored until the program is terminated"
     }
    ]
   }
@@ -207,32 +173,32 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-297880148",
   "source": {
-   "name": "Question 7",
+   "name": "Question 6",
    "showName": false,
-   "instructions": "**Question 7: The cache levels are accessed in the following order**",
+   "instructions": "**Question 6: The cache levels are accessed in the following order**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "L4, L3, L2, L1",
+     "_id": "7c3409a8-bb3c-5fac-467e-54fea601119d",
      "correct": false,
-     "_id": "7c3409a8-bb3c-5fac-467e-54fea601119d"
+     "answer": "L4, L3, L2, L1"
     },
     {
-     "answer": "L1, L3, L2, L4",
+     "_id": "8eb46323-e304-2703-df1c-80369d9ba11c",
      "correct": false,
-     "_id": "8eb46323-e304-2703-df1c-80369d9ba11c"
+     "answer": "L1, L3, L2, L4"
     },
     {
-     "answer": "L3, L2, L1, L4",
+     "_id": "36ea3081-7d21-1d52-bb95-921793243a42",
      "correct": false,
-     "_id": "36ea3081-7d21-1d52-bb95-921793243a42"
+     "answer": "L3, L2, L1, L4"
     },
     {
+     "_id": "a02975e7-b8b8-1c9a-60ba-e402c8e85adc",
      "correct": true,
-     "answer": "L1, L2, L3, L4",
-     "_id": "a02975e7-b8b8-1c9a-60ba-e402c8e85adc"
+     "answer": "L1, L2, L3, L4"
     }
    ]
   }
@@ -241,32 +207,32 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3965322277",
   "source": {
-   "name": "Question 8",
+   "name": "Question 7",
    "showName": false,
-   "instructions": "**Question 8: A processor with 4 cores is called…**",
+   "instructions": "**Question 7: A processor with 4 cores is called…**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "dual-core",
+     "_id": "e0ff1a27-67c2-0a8c-9304-f1bd2add9357",
      "correct": false,
-     "_id": "e0ff1a27-67c2-0a8c-9304-f1bd2add9357"
+     "answer": "dual-core"
     },
     {
+     "_id": "823abc93-059c-2c18-0008-07b8cbaadcfb",
      "correct": true,
-     "answer": "quad-core",
-     "_id": "823abc93-059c-2c18-0008-07b8cbaadcfb"
+     "answer": "quad-core"
     },
     {
-     "answer": "penta-core",
+     "_id": "6568b564-ff3d-6262-8378-159ff16eaa78",
      "correct": false,
-     "_id": "6568b564-ff3d-6262-8378-159ff16eaa78"
+     "answer": "penta-core"
     },
     {
-     "answer": "deca-core",
+     "_id": "cdefde62-0b1f-04a7-a130-480d2d79ca64",
      "correct": false,
-     "_id": "cdefde62-0b1f-04a7-a130-480d2d79ca64"
+     "answer": "deca-core"
     }
    ]
   }
@@ -275,32 +241,32 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3787082145",
   "source": {
-   "name": "Question 9",
+   "name": "Question 8",
    "showName": false,
-   "instructions": "**Question 9: When the cores work together on the same program it is called…**",
+   "instructions": "**Question 8: When the cores work together on the same program it is called…**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "equal access processing",
+     "_id": "5df93481-2ad1-942b-956f-f408180c44cd",
      "correct": false,
-     "_id": "5df93481-2ad1-942b-956f-f408180c44cd"
+     "answer": "equal access processing"
     },
     {
-     "answer": "multithreading",
+     "_id": "208da9f5-3b7e-3365-85a9-eb21a4353176",
      "correct": false,
-     "_id": "208da9f5-3b7e-3365-85a9-eb21a4353176"
+     "answer": "multithreading"
     },
     {
-     "answer": "multitasking",
+     "_id": "bac926b8-7c1e-088b-08fb-f0a2407b19e9",
      "correct": false,
-     "_id": "bac926b8-7c1e-088b-08fb-f0a2407b19e9"
+     "answer": "multitasking"
     },
     {
+     "_id": "f55432c7-b073-646b-e6c1-127739df883b",
      "correct": true,
-     "answer": "parallel processing",
-     "_id": "f55432c7-b073-646b-e6c1-127739df883b"
+     "answer": "parallel processing"
     }
    ]
   }
@@ -309,32 +275,32 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3101344407",
   "source": {
-   "name": "Question 10",
+   "name": "Question 9",
    "showName": false,
-   "instructions": "**Question 10: When the cores work on different programs it is called…**",
+   "instructions": "**Question 9: When the cores work on different programs it is called…**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "equal access processing",
+     "_id": "a81776ff-c3f2-dba4-bd15-0b0c73cdb732",
      "correct": false,
-     "_id": "a81776ff-c3f2-dba4-bd15-0b0c73cdb732"
+     "answer": "equal access processing"
     },
     {
-     "answer": "multithreading",
+     "_id": "081a35f3-8ad2-d347-4d31-e88fbbe2ac40",
      "correct": false,
-     "_id": "081a35f3-8ad2-d347-4d31-e88fbbe2ac40"
+     "answer": "multithreading"
     },
     {
+     "_id": "f6b7b0a8-efcf-8a58-78a2-8a7ed8a6bada",
      "correct": true,
-     "answer": "multitasking",
-     "_id": "f6b7b0a8-efcf-8a58-78a2-8a7ed8a6bada"
+     "answer": "multitasking"
     },
     {
-     "answer": "parallel processing",
+     "_id": "886e7e25-8ba2-a83a-9718-184fdddcb643",
      "correct": false,
-     "_id": "886e7e25-8ba2-a83a-9718-184fdddcb643"
+     "answer": "parallel processing"
     }
    ]
   }

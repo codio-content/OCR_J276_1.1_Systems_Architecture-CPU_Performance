@@ -20,11 +20,6 @@ There is a maximum speed at which transistors can work and Too much heat is prod
 # Solution
 The CPU functions at a faster rate than the main memory
 |||
-{Check It!|assessment}(multiple-choice-4033226552)
-|||guidance
-# Solution
-SRAM
-|||
 {Check It!|assessment}(multiple-choice-2088719783)
 |||guidance
 # Solution

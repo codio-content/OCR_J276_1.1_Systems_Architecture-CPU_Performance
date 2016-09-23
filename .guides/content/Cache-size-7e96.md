@@ -5,7 +5,7 @@ A solution to this problem is to use very fast memory within CPU itself or very 
 
 This memory is used to store data that has been recently used or is likely to be frequently used. It is called a cache.
 
-The CPU first checks the fast cache for the data it needs.  If it finds it doesn’t have to wait for it to be fetched from the much slower DRAM.
+The CPU first checks the fast cache for the data it needs.  If it finds it doesn’t have to wait for it to be fetched from the much slower RAM.
 
 As the cache memory becomes larger, the latency increases and so it becomes slower to find the required data.
 The cache is therefore divided into different levels.  
